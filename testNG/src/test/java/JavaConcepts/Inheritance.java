@@ -4,7 +4,7 @@ public class Inheritance {
 
 	public static void main(String[] s) {
 
-		StringBuffer sb = new StringBuffer();
+//		StringBuffer sb = new StringBuffer();
 		//sb.
 		Inheritance heritance = new Inheritance();
 
